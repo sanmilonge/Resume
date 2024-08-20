@@ -5,7 +5,7 @@ import sys
 
 s = socket.socket()
 
-host = "134.209.178.247"  # Change this to the actual IP address of the server
+host = "188.166.150.98"  # Change this to the actual IP address of the server
 port = 65000
 
 print(f'Connecting to host | IP[{host}]')
